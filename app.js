@@ -1,9 +1,11 @@
 const express = require('express');
 const mongoose  = require('mongoose');
 require("dotenv").config();
-const Article = require('../bracamea-backend/models/articles.model');
-const articleRouter = require('./routers/articles.router');
 const path = require('path');
+const articleServicePath = path.join(__dirname, 'models/articles.model.js');
+const Article = require(articleServicePath);
+const articleRouterPath = path.join(__dirname, 'routers/articles.router.js');
+const articleRouter = require(articleRouterPath);
 const dataPath = path.join(__dirname, 'data.json'); // si data.json est dans le même dossier que app.js
 const data = require(dataPath);
 
