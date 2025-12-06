@@ -1,0 +1,1279 @@
+[
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":7,
+        "path":"article (19).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (20).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (36).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (37).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":7,
+        "path":"article (38).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (3).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (4).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (5).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":7,
+        "path":"article (14).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (15).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (16).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (17).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (18).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":7,
+        "path":"article (24).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (25).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (26).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (27).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (29).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"robe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (41).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"jupe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (42).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"jupe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (43).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"jupe",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (44).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"jupe",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (39).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"jupe",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (40).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"babouche",
+        "modele":"hermes paris",
+        "prix":10000,
+        "pointure":[38, 39, 40, 41],
+        "note":8,
+        "path":"article (11).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"babouche",
+        "modele":"hermes paris",
+        "prix":10000,
+        "pointure":[38, 39, 40, 41],
+        "note":8,
+        "path":"article (12).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"babouche",
+        "modele":"hermes paris",
+        "prix":10000,
+        "pointure":[38, 39, 40, 41],
+        "note":8,
+        "path":"article (13).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"zara",
+        "prix":10000,
+        "pointure":[38, 39, 40, 41],
+        "note":8,
+        "path":"article (186).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"zara",
+        "prix":10000,
+        "pointure":[38, 39, 40, 41],
+        "note":9,
+        "path":"article (187).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"zara",
+        "prix":10000,
+        "pointure":[38, 39, 40, 41],
+        "note":8,
+        "path":"article (188).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"zara",
+        "prix":10000,
+        "pointure":[38, 39, 40, 41],
+        "note":9,
+        "path":"article (189).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"zara",
+        "prix":10000,
+        "pointure":[38, 39, 40, 41],
+        "note":9,
+        "path":"article (190).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":9,
+        "path":"article (55).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":20000,
+        "note":10,
+        "path":"article (56).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":8,
+        "path":"article (57).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":10000,
+        "note":9,
+        "path":"article (58).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":10,
+        "path":"article (59).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":17000,
+        "note":8,
+        "path":"article (60).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":12000,
+        "note":10,
+        "path":"article (61).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":9,
+        "path":"article (62).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":16000,
+        "note":10,
+        "path":"article (63).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"glamor",
+        "prix":15000,
+        "note":9,
+        "path":"article (64).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"glamor",
+        "prix":12000,
+        "note":10,
+        "path":"article (65).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"glamor",
+        "prix":15000,
+        "note":9,
+        "path":"article (66).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"glamor",
+        "prix":15000,
+        "note":10,
+        "path":"article (67).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"glamor",
+        "prix":15000,
+        "note":8,
+        "path":"article (68).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"18k",
+        "prix":15000,
+        "note":9,
+        "path":"article (69).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"18k",
+        "prix":12000,
+        "note":10,
+        "path":"article (70).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"18k",
+        "prix":17000,
+        "note":9,
+        "path":"article (71).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"18k",
+        "prix":19000,
+        "note":10,
+        "path":"article (72).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"18k",
+        "prix":15000,
+        "note":8,
+        "path":"article (73).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"18k",
+        "prix":18000,
+        "note":9,
+        "path":"article (74).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":9,
+        "path":"article (75).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":12000,
+        "note":8,
+        "path":"article (76).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":10,
+        "path":"article (77).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":14000,
+        "note":8,
+        "path":"article (78).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":9,
+        "path":"article (79).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":10,
+        "path":"article (80).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":8,
+        "path":"article (81).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":7,
+        "path":"article (82).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":7,
+        "path":"article (84).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":18000,
+        "note":8,
+        "path":"article (85).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"pomonana",
+        "prix":15000,
+        "note":10,
+        "path":"article (86).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (21).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":8000,
+        "note":9,
+        "path":"article (92).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":8000,
+        "note":9,
+        "path":"article (93).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (94).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":8000,
+        "note":8,
+        "path":"article (95).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":7,
+        "path":"article (96).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (97).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":10,
+        "path":"article (98).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (99).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":9,
+        "path":"article (100).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":7,
+        "path":"article (101).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (103).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (102).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":10,
+        "path":"article (106).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (105).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (110).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (111).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (112).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (113).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (114).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (115).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"sac a main",
+        "modele":"africain",
+        "prix":5000,
+        "note":8,
+        "path":"article (116).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chemise",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (204).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chemise",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (205).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chemise",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (206).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chemise",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (207).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chemise",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (208).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chemise",
+        "modele":"europeen",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (209).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":18000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (23).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":20000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (28).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":15000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (31).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":7,
+        "path":"article (32).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":22000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (45).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":18000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (46).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":15000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (47).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":12000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (48).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":18000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (49).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":16000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":7,
+        "path":"article (50).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":25000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (51).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":14000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":7,
+        "path":"article (52).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":20000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":9,
+        "path":"article (53).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"africain",
+        "prix":25000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":10,
+        "path":"article (54).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"sport",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (6).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"sport",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (7).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"sport",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (8).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"sport",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (9).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"ensemble",
+        "modele":"sport",
+        "prix":10000,
+        "taille":["S","L","M","XL","XXL"],
+        "note":8,
+        "path":"article (10).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"paire",
+        "prix":30000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":10,
+        "path":"article (172).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"paire",
+        "prix":30000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":10,
+        "path":"article (174).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"paire",
+        "prix":30000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":9,
+        "path":"article (175).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"paire",
+        "prix":30000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":9,
+        "path":"article (180).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"paire",
+        "prix":30000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":10,
+        "path":"article (185).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":30000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":9,
+        "path":"article (171).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":20000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":7,
+        "path":"article (173).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":25000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":10,
+        "path":"article (177).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":20000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":8,
+        "path":"article (178).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":20000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":8,
+        "path":"article (181).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":15000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":8,
+        "path":"article (182).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":25000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":9,
+        "path":"article (183).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":15000,
+        "pointure":[38, 39, 40, 41, 42, 43, 44],
+        "note":8,
+        "path":"article (184).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":15000,
+        "pointure":[38, 39, 40, 41],
+        "note":8,
+        "path":"article (143).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":20000,
+        "pointure":[38, 39, 40, 41],
+        "note":7,
+        "path":"article (144).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":25000,
+        "pointure":[38, 39, 40, 41],
+        "note":10,
+        "path":"article (145).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":15000,
+        "pointure":[38, 39, 40, 41],
+        "note":8,
+        "path":"article (146).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":15000,
+        "pointure":[38, 39, 40, 41],
+        "note":8,
+        "path":"article (147).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":25000,
+        "pointure":[38, 39, 40, 41],
+        "note":10,
+        "path":"article (148).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"chaussure",
+        "modele":"mocassin",
+        "prix":20000,
+        "pointure":[38, 39, 40, 41],
+        "note":9,
+        "path":"article (149).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (150).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (151).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (152).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (158).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (159).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (163).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (164).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (165).jpg"
+    },
+    {
+        "genre":"homme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (167).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (153).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (154).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (155).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (156).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (157).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (160).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (161).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (162).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (165).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (168).jpg"
+    },
+    {
+        "genre":"femme",
+        "type":"parfum",
+        "modele":"zara",
+        "prix":10000,
+        "note":9,
+        "path":"article (169).jpg"
+    }
+]
